@@ -1,2 +1,2 @@
-# Chloe-Feng-Classifying-Buildings
+# Chloe-Feng
 Classifying Buildings with a K-Means Clustering Model
