@@ -8,7 +8,7 @@ Building Types: Flatiron Building and the Terminal Tower.
 
 Dataset Overview: The dataset for this project was downloaded from the Google Landmarks Dataset V2: https://github.com/cvdfoundation/google-landmark. 
 
-All sources used in this project are listed in the presentation slides. 
+All sources' links used in this project are listed in the presentation slides. 
 
 The following are the citations of two papers the dataset used depends on: 
 
