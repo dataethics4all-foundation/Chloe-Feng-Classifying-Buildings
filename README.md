@@ -1,6 +1,6 @@
 # Chloe-Feng-Classifying-Buildings
 
-Classifying Buildings with a K-Means Clustering Model (Using Sklearn)
+Classifying Buildings with a K-Means Clustering Model (Using Sklearn). Please refer to the presentation slides for a more in detail over of the project. 
 
 Objective: Classifying between 2 Building types
 
